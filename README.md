@@ -18,7 +18,7 @@ Option 1: Run from Source
 2. Open in Eclipse or IntelliJ.
 3. Run `BlackjackGUI.java`.
 
-Option 2: From JAR (if included)
+Option 2: From JAR
 1. Download `BlackjackGUI.jar`.
 2. Run it:
 
